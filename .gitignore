@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Vault sensitive files
+*.snap
+vault_init_*.json
+vault_init_*.txt
+vault-boot/
+*.pem
+*.key
+*.crt
